@@ -1,0 +1,50 @@
+
+            body{
+    background-color: #BDE6F1;
+            }
+            h1{
+                align-items: center;
+                font-size: 3em;
+                padding-left:42%;
+                padding-top: 1.5em;
+            }
+            .wrapper{
+                padding-left: 5%;
+                padding-bottom:2em;
+            }
+
+            .input{
+                width: 20em;
+                height: 2em;
+                padding: 1em;
+                margin: 1em;
+                font-size: 15px;
+                
+            }
+            .input-fields, .input, .msg textarea{              
+                background: transparent;
+                border:0;
+                border-bottom:4px solid white ;
+                padding: 1em;
+                color: black;
+                justify-content:  space-between;
+                margin-left: 5em;
+                box-decoration-break: none;
+                outline: none;
+                font-size: 25px;
+            }
+            button{
+                border-radius: 15px 15px;
+                width: 5em;
+                height: 2em;
+                color:black;
+                background-color: #FD8C04;
+                margin-left: 20em;
+                border:transparent ;
+                font-size: 25px;
+            }
+            .msg{
+                width: 20em;
+                height: 10em;
+            }
+           

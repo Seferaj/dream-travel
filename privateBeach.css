@@ -1,0 +1,162 @@
+  body{     
+     background-color:#E5CB9F; 
+ } 
+   a{
+  text-decoration: none;
+  color:black;
+}
+nav {
+  top: 1em;
+  position: absolute;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.5em;
+  list-style-type: none;
+  text-decoration: none;
+   font-weight: bold;
+   z-index: 1;
+   display:inline-flex;
+}
+nav .button{
+  display:inline-flex;
+}
+.button{
+  background-color: rgba(255, 255, 255, 0.764);
+  font-size: 15px;
+  width: 7em;
+  color:transparent;
+  z-index: 1;
+  position: absolute;
+  height: 3em;
+  border-radius: 20px 20px;
+  bottom: 1.8em;
+  font-size: 18px;
+}
+      
+    /* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(255, 255, 255);
+  opacity: 0.5;
+}
+a{
+  text-decoration: none;
+}
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding:1em;
+}
+h2{
+    padding-left:30%;
+    font-size: 50px;
+    padding-top: 4em;
+    color: white;            }
+h1{
+  float: right;
+    margin-bottom: em;
+  color:#C36A2D;
+  font-size: 35px;
+}
+.box{
+  padding: 1em;
+    width: 90%;
+    display:block;
+    margin-bottom: 3em;
+    float: left;
+
+}
+.box1{
+    width: 90%;
+    margin: 2em;
+}
+.box2{
+    width:90% ;
+    margin: 2em}
+.box3{
+  width:90% ;
+  margin: 2em}
+.box4{
+  width:90% ;
+  margin: 2em}
+.box5{
+  width:90% ;
+  margin: 2em;
+}
+ .text1{
+  display: inline-block;
+ }
+p{
+  color: white;
+  width: 20em;
+  font-size: 1.5em;
+}
+.text1{
+  display: inline-block;
+  float: right;
+  width: 20em;
+}
+.video1 .text1{
+  display: inline-flex;
+}
+.video1{
+  margin: 5em;
+  float: left;
+}
+.text2{
+  display: inline-block;
+}
+.video2 .text2{
+  display: inline-flex;
+}
+.video2{
+  margin: 5em;
+}
+.box2{
+  display: flex;
+}
+.text3{
+  display: inline-block;
+  float: right;
+  width: 20em;
+}
+.video3 .text3{
+  display: inline-flex;
+}
+.video3{
+  margin: 5em;
+  float: left;
+}
+.box4{
+  display: flex;
+} 
+
+.text4{
+  display: inline-block;
+}
+.video4 .text4{
+  display: inline-flex;
+}
+.video4{
+  margin: 5em;
+}
+.box4{
+  display: flex;
+}   
+.text5{
+  display: inline-block;
+  float: right;
+  width: 20em;
+}
+.video5 .text5{
+  display: inline-flex;
+}
+.video5{
+  margin: 5em;
+  float: left;
+}     
+
